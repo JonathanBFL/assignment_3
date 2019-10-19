@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/burkhart_PA3.iml" filepath="$PROJECT_DIR$/burkhart_PA3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/burkhart_p1_1/burkhart_PA3_1.iml" filepath="$PROJECT_DIR$/burkhart_p1_1/burkhart_PA3_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/burkhart_p1_2/burkhart_PA3_2.iml" filepath="$PROJECT_DIR$/burkhart_p1_2/burkhart_PA3_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/burkhart_p1_3/burkhart_PA3_3.iml" filepath="$PROJECT_DIR$/burkhart_p1_3/burkhart_PA3_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/burkhart_p1_4/burkhart_PA3_4.iml" filepath="$PROJECT_DIR$/burkhart_p1_4/burkhart_PA3_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/burkhart_p1_5/burkhart_PA3_5.iml" filepath="$PROJECT_DIR$/burkhart_p1_5/burkhart_PA3_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/burkhart_p2/burkhart_p2.iml" filepath="$PROJECT_DIR$/burkhart_p2/burkhart_p2.iml" />
+    </modules>
+  </component>
+</project>

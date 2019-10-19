@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8159ce76-c378-423d-a89e-5720dbc79c88" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SLFl2BAyWCyqSz29sfJuazOxEK" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="burkhart_p2.Application" />
+      <module name="burkhart_p2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="burkhart_p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSavings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="burkhart_p2.TestSavings" />
+      <module name="burkhart_p2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="burkhart_p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="burkhart_p1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="burkhart_p1_1.burkhart_p1_1" />
+      <module name="burkhart_PA3_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="burkhart_p1_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="burkhart_p1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="burkhart_p1_2.burkhart_p1_2" />
+      <module name="burkhart_PA3_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="burkhart_p1_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="burkhart_p1_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="burkhart_p1_5.burkhart_p1_5" />
+      <module name="burkhart_PA3_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="burkhart_p1_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.TestSavings" />
+        <item itemvalue="Application.burkhart_p1_5" />
+        <item itemvalue="Application.burkhart_p1_1" />
+        <item itemvalue="Application.burkhart_p1_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8159ce76-c378-423d-a89e-5720dbc79c88" name="Default Changelist" comment="" />
+      <created>1571335116556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571335116556</updated>
+      <workItem from="1571335118956" duration="9674000" />
+      <workItem from="1571363136942" duration="13000" />
+      <workItem from="1571432375306" duration="10695000" />
+      <workItem from="1571448188380" duration="186000" />
+      <workItem from="1571458084748" duration="3125000" />
+      <workItem from="1571461401868" duration="3550000" />
+      <workItem from="1571499091715" duration="5857000" />
+      <workItem from="1571512557186" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
